@@ -15,13 +15,13 @@
 
 def speak_to_grandma(name)
   if name=="#{name}".upcase
-   print "NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!"
     
   elsif name=="I LOVE YOU GRANDMA!"
-print "I LOVE YOU TOO PUMPKIN!"
+ "I LOVE YOU TOO PUMPKIN!"
   
 else 
-  print  "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
   
 end
 end 
