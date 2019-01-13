@@ -18,10 +18,10 @@ def speak_to_grandma(name)
    print "NO, NOT SINCE 1938!"
     
   elsif name=="I LOVE YOU GRANDMA!"
-prints "I LOVE YOU TOO PUMPKIN!"
+print "I LOVE YOU TOO PUMPKIN!"
   
 else 
-   "HUH?! SPEAK UP, SONNY!"
+  print  "HUH?! SPEAK UP, SONNY!"
   
 end
 end 
